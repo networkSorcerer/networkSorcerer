@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**networkSorcerer/networkSorcerer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm 김요한 👋
 
-Here are some ideas to get you started:
+### 🚀 About Me
+I'm a software engineer specializing in web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning React and GraphQL
+- 💼 Working on KDT trainning
+- 📫 Reach me: agapefaith99@naver.com
+
+### 🛠️ Tech Stack
+- Languages: JavaScript, Python, C++
+- Frameworks: React, Node.js, Django
+- Tools: Git, Docker, VS Code
