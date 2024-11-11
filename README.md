@@ -2,14 +2,47 @@
 
 # Hello, I'm 김요한 👋
 
-### 🚀 About Me
-I'm a software engineer specializing in web development.
+# 안녕하세요! 👋 저는 열정적인 개발자입니다!
 
-- 🌱 Currently learning React and GraphQL
-- 💼 Working on KDT trainning
-- 📫 Reach me: agapefaith99@naver.com
+저는 다양한 웹 기술과 데이터베이스에 대한 학습을 이어가며 성장하고 있습니다. 주로 **Java**, **JavaScript**(🌐) 및 관련 라이브러리, 프레임워크 등을 공부하고 있으며, **백엔드**와 **프론트엔드** 개발에 모두 관심이 많습니다.
 
-### 🛠️ Tech Stack
-- Languages: JavaScript, Python, C++
-- Frameworks: React, Node.js, Django
-- Tools: Git, Docker, VS Code
+---
+
+### ✨ 사용 기술 및 학습 중인 기술
+
+#### 🌐 **프론트엔드**
+- **HTML5** & **CSS3**: `✨ 시각적 표현의 기본 ✨`
+- **JavaScript**: `🎉 인터랙티브 웹 구현 🎉`
+- **jQuery**: `💻 간단하고 빠른 DOM 조작 💻`
+- **Vue.js** & **React.js**: `⚛️ 프론트엔드 프레임워크 ⚛️`
+
+#### 🛠️ **백엔드**
+- **Java**: `☕️ 안정적이고 널리 사용되는 언어 ☕️`
+- **Node.js**: `🚀 빠르고 효율적인 서버 🚀`
+
+#### 📊 **데이터베이스**
+- **MySQL**: `💾 관계형 데이터베이스 💾`
+- **Oracle**: `🏛️ 대규모 데이터베이스 관리 🏛️`
+
+---
+
+### 🌱 **현재 배우고 있는 것들**
+- 프론트엔드 디자인 패턴 🎨
+- 서버 사이드 렌더링 (SSR) 🖥️
+- 데이터베이스 최적화 📈
+
+---
+
+### 📫 **연락처**
+GitHub에서 저와 소통하고 싶으시면 언제든지 Issue를 통해 연락주세요! 😊
+
+---
+
+### 💡 **기타 관심사**
+- AI와 머신러닝 🤖
+- 웹 성능 최적화 🌐
+- 오픈 소스 프로젝트에 기여하기 🌱
+
+---
+
+감사합니다! 제 GitHub 프로필에 방문해주셔서 감사합니다. 함께 성장하는 개발자가 되기를 바랍니다! 😄✨
