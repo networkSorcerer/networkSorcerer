@@ -17,10 +17,23 @@
 #### 🛠️ **백엔드**
 - **Java**: `☕️ 안정적이고 널리 사용되는 언어 ☕️`
 - **Node.js**: `🚀 빠르고 효율적인 서버 🚀`
+- **Spring Boot**: `🌱 강력한 백엔드 프레임워크 🌱`
 
 #### 📊 **데이터베이스**
 - **MySQL**: `💾 관계형 데이터베이스 💾`
 - **Oracle**: `🏛️ 대규모 데이터베이스 관리 🏛️`
+
+---
+
+### 💻 **개발 환경 및 사용 도구**
+- **Visual Studio Code**: 주요 코드 편집기 📝
+- **IntelliJ IDEA**: Java 및 Spring Boot 프로젝트 관리 🔧
+- **PyCharm**: Python 관련 프로젝트 💻
+- **Git** & **Git Bash**: 버전 관리 및 형상 관리 🗃️
+- **SQL Developer**: Oracle 데이터베이스 관리 툴 📊
+- **DBeaver**: 다양한 DB를 관리하는 데 유용한 도구 🛠️
+- **Postman**: API 테스트 및 검증 🔍
+
 
 ---
 
