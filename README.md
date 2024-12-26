@@ -55,7 +55,7 @@ GitHub에서 저와 소통하고 싶으시면 언제든지 Issue를 통해 연�
 ---
 # 백준 문제 풀이
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=agapefaith)](https://solved.ac/agapefaith/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=agapefaith)](https://solved.ac/agapefaith)
 
 저는 백준에서 다양한 문제를 풀고 있습니다! 제 프로필을 통해 제 풀이를 확인할 수 있습니다.
 
