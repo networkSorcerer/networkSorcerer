@@ -52,6 +52,7 @@ GitHub에서 저와 소통하고 싶으시면 언제든지 Issue를 통해 연�
 - AI와 머신러닝 🤖
 - 웹 성능 최적화 🌐
 - 오픈 소스 프로젝트에 기여하기 🌱
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=agapefaith)](https://solved.ac/agapefaith)
 
 ---
 
