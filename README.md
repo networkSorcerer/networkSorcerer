@@ -34,25 +34,6 @@ https://networksorcerer.github.io/KDT_CLONE_DISNEY/
 - ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white) Windows 🖥️
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black) Linux 🐧
 
----
-
-### 🌱 **현재 배우고 있는 것들**
-- 프론트엔드 디자인 패턴 🎨
-- 서버 사이드 렌더링 (SSR) 🖥️
-- 데이터베이스 최적화 📈
-
----
-
-### 📫 **연락처**
-GitHub에서 저와 소통하고 싶으시면 언제든지 Issue를 통해 연락주세요! 😊
-
----
-
-### 💡 **기타 관심사**
-- AI와 머신러닝 🤖
-- 웹 성능 최적화 🌐
-- 오픈 소스 프로젝트에 기여하기 🌱
----
 # 백준 문제 풀이
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=agapefaith)](https://solved.ac/agapefaith)
