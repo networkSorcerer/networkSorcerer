@@ -4,7 +4,7 @@
 
 - **HTML, CSS** 프로젝트: [Disney Clone](https://networksorcerer.github.io/KDT_CLONE_DISNEY/)
 - **React + JPA** 프로젝트: [LinkedUp](http://linkedup.store)
-- **JPA + CI/CD 프로젝트 : [JPA+JQUERY](http://jpa-jquery-mustache-jwt.store)
+- **JPA + CI/CD** 프로젝트 : [JPA+JQUERY](http://jpa-jquery-mustache-jwt.store)
 
 ## 🛠️ Skills
 
