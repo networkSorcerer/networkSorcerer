@@ -3,7 +3,7 @@
 안녕하세요! 👋 저는 열정적인 **개발자**입니다. 다양한 **웹 기술**과 **데이터베이스**를 공부하며 성장 중입니다. 주로 **Java**, **JavaScript**, **React**, **Spring Boot** 등을 다루고 있으며, **백엔드**와 **프론트엔드** 개발에 모두 관심을 가지고 있습니다.
 - **노션** : [바로가기](https://www.notion.so/Full-Stack-Web-Developer-e2f4af13df224a5e8ed35067993c9a34?pvs=3&qid=)
 - **HTML, CSS** 프로젝트: [Disney Clone](https://networksorcerer.github.io/KDT_CLONE_DISNEY/)
-- **React** : [React Spotify](https://coteach.netlify.app/)   [React H&M](https://coteach-hnm.netlify.app/)
+- **React** : 1. [React Spotify](https://coteach.netlify.app/)   2. [React H&M](https://coteach-hnm.netlify.app/)
 - **MERN 프로젝트** : [Mern H&M](https://networksorcerer.shop/)
 - **SQLD**
 - **웹디자인개발기능사**
