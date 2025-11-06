@@ -9,7 +9,7 @@
 - **MERN 프로젝트** : [Mern H&M](https://networksorcerer.shop/)
 - **SQLD**
 - **웹디자인개발기능사**
-- ##
+- ####
   
 ## 🛠️ Skills
 
