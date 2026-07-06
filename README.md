@@ -1,7 +1,7 @@
 # 👋 Hello, I'm 김요한!
 
 안녕하세요! 👋 저는 열정적인 **개발자**입니다. 다양한 **웹 기술**과 **데이터베이스**를 공부하며 성장 중입니다. 주로 **Java**, **JavaScript**, **React**, **Spring Boot** 등을 다루고 있으며, **백엔드**와 **프론트엔드** **개발**에 모두 관심을 가지고 있습니다.
-- **이력** : [바로가기](https://resume-tau-nine-39.vercel.app/)
+- **이력서** : [바로가기](https://resume-tau-nine-39.vercel.app/)
 - **HTML, CSS** 프로젝트: [Disney Clone](https://networksorcerer.github.io/KDT_CLONE_DISNEY/)
 - **React** :
 -  1. [TypeScript Spotify](https://coteach.netlify.app/)
